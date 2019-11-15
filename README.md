@@ -31,7 +31,7 @@
 Run the script with a search term like my name:
 
 ```bash
-pipenv run python3 ichabod.py Adam Englander
+pipenv run python ichabod.py search Adam Englander
 ```
 
 ## Docker
